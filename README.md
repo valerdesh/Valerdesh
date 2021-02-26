@@ -33,6 +33,6 @@
  <br>
  <br>
  
- https://github.com/valerdesh/Valerdesh/blob/main/images/bloodborne.png
+![Logo](images/bloodborne.png)
 
  
