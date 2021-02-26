@@ -1,5 +1,4 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5508906.png" width="1002" height="114" alt="VALERDESH'S GIT" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Free Graphics Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3776375890">Edit Image</a>
 ### Hi there 👋
 
 <!--
