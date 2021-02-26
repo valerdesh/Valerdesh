@@ -1,4 +1,5 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5508906.png" width="1002" height="114" alt="VALERDESH'S GIT" /></a>
+<div class="tenor-gif-embed" data-postid="18223058" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/retrowave-synthwave-chillwave-retro-synth-gif-18223058">Retrowave Synthwave GIF</a> from <a href="https://tenor.com/search/retrowave-gifs">Retrowave GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ### Hi there 👋
 
 <!--
